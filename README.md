@@ -29,9 +29,9 @@ private handleThemeChangedEvent(args: ThemeChangedEventArgs) {
 
 [Full code](./src/webparts/themed/index.tsx)
 
-## Styled component
+## Styled components
 
-The basic way is to bypass theme variant down to styled component wrapper then using properties callbacks with consumption of corresponding theme properties.
+The basic way is to bypass theme variant down to styled components wrapper then using properties callbacks with consumption of corresponding theme variables.
 
 ```typescript
 import styled from 'styled-components';
