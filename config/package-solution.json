@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-styled-components-sample-client-side-solution",
+    "id": "1552a4d5-1458-43dc-8373-c4bb6e574523",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-styled-components-sample.sppkg"
+  }
+}
