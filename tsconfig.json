@@ -29,7 +29,7 @@
     ]
   },
   "include": [
-    "src/**/*.ts"
+    "src/**/*.ts", "src/webparts/themed/index.tsx"
   ],
   "exclude": [
     "node_modules",

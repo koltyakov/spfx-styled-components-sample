@@ -5,14 +5,12 @@
     "themed-web-part": {
       "components": [
         {
-          "entrypoint": "./lib/webparts/themed/ThemedWebPart.js",
-          "manifest": "./src/webparts/themed/ThemedWebPart.manifest.json"
+          "entrypoint": "./lib/webparts/themed/index.js",
+          "manifest": "./src/webparts/themed/manifest.json"
         }
       ]
     }
   },
   "externals": {},
-  "localizedResources": {
-    "ThemedWebPartStrings": "lib/webparts/themed/loc/{locale}.js"
-  }
+  "localizedResources": {}
 }
