@@ -39,7 +39,7 @@
     "@types/chai": "3.4.34",
     "@types/mocha": "2.2.38",
     "@types/styled-components": "^5.1.0",
-    "ajv": "~5.2.2",
+    "ajv": "~6.12.3",
     "gulp": "~3.9.1"
   }
 }
